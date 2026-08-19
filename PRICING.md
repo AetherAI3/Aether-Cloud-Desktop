@@ -1,7 +1,7 @@
 # Pricing & UVT Credits
 
 AetherCloud bills on the shared Aether platform. **One account, one balance, one
-bill** — shared with [Aether Agent](https://github.com/DBarr3/aether-agent).
+bill** — shared with [Aether Agent](https://github.com/AetherAI3/aether-agent).
 
 > **Live, authoritative pricing lives at [aethersystems.net/pricing](https://aethersystems.net/pricing).**
 > The tiers, prices, and credit amounts on the site are the source of truth.

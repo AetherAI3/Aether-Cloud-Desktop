@@ -8,9 +8,9 @@
 
 [![Release notes](https://img.shields.io/badge/release_notes-june_2026-14b8a6)](RELEASE_NOTES.md)
 
-**[⬇ Download free (no card)](https://aethersystems.net/download)** · **[Pricing](https://aethersystems.net/pricing)** · **[Release notes](RELEASE_NOTES.md)** · **[Aether Agent — the terminal bridge](https://github.com/DBarr3/aether-agent)**
+**[⬇ Download free (no card)](https://aethersystems.net/download)** · **[Pricing](https://aethersystems.net/pricing)** · **[Release notes](RELEASE_NOTES.md)** · **[Aether Agent — the terminal bridge](https://github.com/AetherAI3/aether-agent)**
 
-**AetherCloud is in **BETA** i am shipping updates as fast as possible
+**AetherCloud is in BETA** — I am shipping updates as fast as possible.
 
 
 [Models & orchestration](#models--orchestration) · [Workflows](#workflows) · [Coder IDE](#projects--the-coder-ide) · [Vault](#the-vault--your-ais-living-memory) · [Trust & proof](#trust-provenance--self-improvement) · [Pricing](#pricing--uvt)
@@ -36,7 +36,7 @@ Preset agents deploy as teams. They plug into **MCP servers** and a skills
 library, and can drive a **sandboxed browser** when a task needs the live web.
 
 Same fleet on this desktop, [the web](https://aethersystems.net), and
-[the terminal](https://github.com/DBarr3/aether-agent).
+[the terminal](https://github.com/AetherAI3/aether-agent).
 
 ## Workflows
 
@@ -53,7 +53,7 @@ dumb folder; it's the active working memory the agents reason from. And it **syn
 to your Aether AI on the web**, so you pick up the same context from your browser.
 Your files never touch a third-party cloud, and every model call is signed.
 
-Powering that reach is **[Unlimited Context](https://github.com/DBarr3/Unlimited-Context-LLM)** —
+Powering that reach is **[Unlimited Context](https://github.com/AetherAI3/Unlimited-Context-LLM)** —
 Aether's open-source (Apache-2.0) context engine that gives models a
 billion-token working memory. Both AetherCloud and Aether Agent run on it.
 
@@ -70,7 +70,7 @@ billion-token working memory. Both AetherCloud and Aether Agent run on it.
 
 ## Aether Agent — the terminal bridge
 
-Live in the terminal? **[Aether Agent](https://github.com/DBarr3/aether-agent)**
+Live in the terminal? **[Aether Agent](https://github.com/AetherAI3/aether-agent)**
 is the open-source coding agent that bridges into the same platform — **one
 account on [aethersystems.net](https://aethersystems.net) runs both**, with the
 same UVT balance and the same model fleet. Drive your repo from the command line;
@@ -116,7 +116,7 @@ card. Upgrade or top up anytime at
 
 **AetherCloud** — Aether AI LLC · Proprietary · Patent Pending #64/010,131 · All Rights Reserved
 
-Created by **[Brandon Barrante](https://github.com/DBarr3)** · founder, Aether AI
+Created by **[Brandon Barrante](https://github.com/AetherAI3)** · founder, Aether AI
 
 [Download](https://aethersystems.net/download) · [Pricing](https://aethersystems.net/pricing) · [Release notes](RELEASE_NOTES.md) · [Terms](TERMS.md) · [Security](SECURITY.md) · [aethersystems.net](https://aethersystems.net)
 
