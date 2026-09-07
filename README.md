@@ -1,6 +1,6 @@
 <div align="center">
 
-# AetherCloud
+# Aether Cloud
 
 <img alt="AetherCloud — the agentic desktop app" src="https://github.com/user-attachments/assets/0a6e50d7-7867-45a6-93d9-ff1a1875de3d" />
 
