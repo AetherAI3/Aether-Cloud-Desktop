@@ -109,19 +109,6 @@ export the signed record of everything that happened
 ([Provenance](#provenance--every-action-signed)). Let the system learn how you
 work ([Agentic memory](#agentic-memory)).
 
-<div align="center">
-<table>
-<tr>
-<td><img alt="Vault galaxy view" src="assets/screenshots/01-vault.png" /><br /><sub>The Vault, rendered as a searchable galaxy.</sub></td>
-<td><img alt="Agent Studio" src="assets/screenshots/03-agents.png" /><br /><sub>Agent Studio — build a team, deploy it.</sub></td>
-</tr>
-<tr>
-<td><img alt="Orbit view" src="assets/screenshots/02-orbit.png" /><br /><sub>Orbit — agents and their work in motion.</sub></td>
-<td><img alt="Team terminal" src="assets/screenshots/06-terminal.png" /><br /><sub>The team terminal.</sub></td>
-</tr>
-</table>
-</div>
-
 ---
 
 ## Aether Agent — the terminal
